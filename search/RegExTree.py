@@ -1,5 +1,5 @@
 "nous avons essayé de reprendre le code du premier projet qui était en java et l'avons mis en python, "
-"mais ça servait à rien étant donné qu'il y'avait deja une laibrairie qui faisait ça"
+"mais ça servait à rien étant donné qu'il y'avait deja une librairie qui faisait ça"
 
 # from typing import List
 # from dataclasses import dataclass
