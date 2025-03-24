@@ -1,0 +1,2325 @@
+﻿The Project Gutenberg eBook of Pegasus
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Pegasus
+        problems of transportation
+
+Author: J. F. C. Fuller
+
+Release date: January 30, 2025 [eBook #75248]
+
+Language: English
+
+Original publication: United Kingdom: Kegan Paul, Trench, Trubner & Co., Ltd, 1925
+
+Credits: Richard Tonsing, Tim Lindell, and the Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced from images made available by the HathiTrust Digital Library.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK PEGASUS ***
+
+
+
+
+
+                                PEGASUS
+
+
+
+
+                          TO-DAY AND TO-MORROW
+
+              _For a full list of this Series see the end
+                             of this Book_
+
+[Illustration:
+
+  GUY ONE-TON LORRY
+
+  Hauling a full load up a one-in-two gradient (notice the vertical
+    stick hanging from string from lamp bracket)
+
+  [_Frontispiece_
+]
+
+
+
+
+                                PEGASUS
+                       PROBLEMS OF TRANSPORTATION
+
+
+                                   BY
+
+                        COLONEL J. F. C. FULLER
+
+                             WITH 8 PLATES
+
+                                 LONDON
+                KEGAN PAUL, TRENCH, TRUBNER & CO., LTD.
+                      NEW YORK: E. P. DUTTON & CO.
+
+
+
+
+                     _Printed in Great Britain by_
+                         MACKAYS LTD., CHATHAM
+
+
+
+
+                                PREFACE
+
+
+The first part of this little book, namely “The Battle of the Iron
+Horse,” appeared, very much as it stands, in the September number of
+_The National Review_, 1925, and I have to thank the editor, Mr. Leo
+Maxse, for his kindness in allowing me to republish it.
+
+The second part is based partially on personal experience and
+reflection, and partially on the lectures and papers of others. In the
+war, the tank brought me to realize the enormous possibilities of
+cross-country movement, and, in 1921, I set down my ideas as regards its
+commercial future in a pamphlet entitled _Economic Movement_, which was
+published in 1922.
+
+Of the works of others, I have borrowed ideas from the following:—
+
+“Improvements in the Efficiency of Roadless Vehicles.” A paper read
+before the members of The Institution of Automobile Engineers, by
+Colonel P. H. Johnson, C.B.E., D.S.O., December, 1921.
+
+“Multi-Wheel and Track Motor.” A paper read before the members of the
+above Institution by Major T. G. Tulloch, March, 1923.
+
+“The Progress of Mechanical Engineering in the Military Service.” A
+lecture delivered before the members of The Institution of Mechanical
+Engineers, by Major G. le Q. Martel, D.S.O., M.C., January, 1924.
+
+“Transport in Tropical Africa.” A paper read before the members of The
+Royal Society of Arts, by Mr. R. H. Brackenbury, February, 1925.
+
+“The Roadless Transport Problem.” A paper read before the members of The
+British Association, by Colonel P. H. Johnson, C.B.E., D.S.O., August,
+1925.
+
+                                                                J.F.C.F.
+
+  _Staff College, Camberley.
+    November, 1925._
+
+
+
+
+                                CONTENTS
+
+
+                                                   PAGE
+                INTRODUCTION                          9
+
+                     THE BATTLE OF THE IRON HORSE
+                The Railway Centenary                13
+                The Protean Problem                  17
+                The X-Ray Transporter                20
+                Erichthonius, Wheelwright            25
+                The Philosopher’s Steam              29
+                George Stephenson, Engine-wright     32
+                The Nature of the Beast              40
+                Protean Ignorance                    44
+
+                  THE CONQUEST OF THE ELYSIAN FIELDS
+                The Equation of Power and Movement   48
+                The Riddle of the Gordian Knot       52
+                The Problem of Unemployment          59
+                The Problem of Power                 66
+                Problems of Movement                 69
+                Two-Dimensional Movement             77
+                The Elysian Fields                   87
+                The Wings of Pegasus                 91
+
+
+
+
+                                PEGASUS
+
+                       PROBLEMS OF TRANSPORTATION
+
+
+
+
+                              INTRODUCTION
+
+
+Whatever man does entails movement, mental or bodily. Movement is, in
+fact, the mainspring of his evolution and of the civilization which this
+evolution engenders; consequently, in the economic growth of movement
+must be sought the direction of all progress, both physical and
+psychological. As the mind of man moves, so does the world, in which
+this mind works, move round him, delivering up to his imagination and
+his hands the mysteries it so sedulously hides. For it is through the
+conquest of mysteries that man, the mystery of mysteries, strides out of
+a dark and unknown past towards some unknown future.
+
+It would be both logical and easy, I think, to start with the soles of
+man’s feet and to work upwards to his brain. To show how, from simple
+walking, man’s natural means of progression, he took to riding, and then
+thought of the oar, the wheel and the sail, until to-day he rushes over
+the surface of the earth, surges through the waves and roars through the
+air, excelling the horse, the fish and the bird. But in so small a book
+as this it is not my intention to write a history of transportation. In
+place, I intend to consider two things: first, the reaction against
+novelty of movement, and secondly, the possibilities of what to-day is
+still a novel form of movement, namely, the movement of roadless
+vehicles, that is of vehicles which do not require roads for their
+locomotion. Also, I intend to show how these vehicles may help us solve
+several of our most pressing problems, and above all that of
+over-population at home and under-population in our Dominions and
+Colonies.
+
+If I can do this with any semblance of success, it may perhaps excuse
+the restrictions I am placing on this subject, for I fully realize the
+immense future possibilities of other means of movement. The railway has
+not come to the end of its evolution, far from it to any reader of Mr.
+Horniman’s book, “How to Make the Railways Pay for the War,” in which
+Mr. Gattie’s “third-dimensional” railway system is described, a system
+which bids fair, were it introduced, to prove as revolutionary as George
+Stephenson’s locomotive itself. Nor has the steamship, except perhaps in
+size, reached its utmost development, for every day heralds a further
+improvement, and, as for aircraft, they are scarcely out of the nursery;
+yet I am of opinion that, until a radical change in their engines is
+introduced, and this change may demand a new motive force, their utility
+in peace will be severely restricted, and, if restricted in peace, in
+numbers they are not likely to be so numerous in war as some people
+imagine. I mention these things here because of the limit I have placed
+on the items I intend to examine when compared to the subject of
+economic movement as a whole.
+
+I have called this little book Pegasus, not only because this famous
+steed had wings, which to me are the wings of imagination, but because
+he was born near the sources of the ocean and sprang from the blood of
+Medusa. To me, the sources of the ocean are symbolic of these little
+islands of ours, which produced not only the first practical steam
+engine and the first locomotive, but also the footed wheel which
+developed into the caterpillar track. Further, Medusa, that monster who
+turned all who gazed on her to stone, is surely the incarnation of that
+obstructive ignorance which, by impeding originality of idea and novelty
+of action, compels thought and things to grow, and through struggle with
+her to prove their utility and worth.
+
+
+
+
+                      THE BATTLE OF THE IRON HORSE
+
+
+                         THE RAILWAY CENTENARY
+
+I must begin somewhere, and since I refuse to begin at the soles of
+men’s feet, which are the beginning of his anatomy, the earth is our
+natural datum point, I will begin just a hundred years ago, when the
+world we know to-day was as remote from the world as it was then, as the
+world I hope to point the way to will, in many ways, be as remote from
+the world as it is now.
+
+On the 27th of September, of this very year in which I write, took place
+the centenary of the opening of the Stockton and Darlington railway, and
+though it was not the first line to be constructed in England (for the
+Killingworth railway was built in 1814, and again this was not the first
+upon which locomotives ran), its claim to priority is nevertheless well
+founded, for it was the first railway the public noticed, and, in
+democratic countries, the birth of anything original must date from the
+moment the most ignorant in the land realize its existence. It flatters
+ignorance to be always first—such is democratic pride.
+
+The 27th of September, 1825, was a very remarkable day in the world’s
+history, one of those birthdays which have no predictable date, but
+which depend on the outburst of genius of some great man. The great man
+was a humble and self-taught engine-wright from Killingworth, one George
+Stephenson, albeit an honest and persevering man, a worker, a thinker
+and a dreamer; one of those human thunder clouds which, from time to
+time, beat up against the conventional currents of thought, and out of
+which flash the lightnings of unsuspected things—a very remarkable and
+creative man.
+
+On the 27th of September, a hundred years ago, a great concourse of
+people assembled at Brusselton Incline, some nine miles from Darlington.
+There, the travelling engine, as it was called, driven by George
+Stephenson, the greatest genius of his age, moved forward amidst shrill
+blasts of its whistle, “with its immense train of carriages,”
+thirty-eight in number; “and such was its velocity,” writes an
+eye-witness, “that in some parts the speed was frequently twelve miles
+an hour!” It took sixty-five minutes to cover the nine miles to
+Darlington, and the multitude stood aghast!
+
+But the other day, I travelled in the “Detroiter” from New York to near
+by the front door of Mr. Henry Ford—another remarkable and self-taught
+revolutionary—the distance, if I remember rightly, some seven hundred
+and fifty miles, and the time taken was fourteen hours. From Brusselton
+Incline the iron horse hauled away, amidst wild excitement, the
+stupendous load of ninety tons. At Pittsburg, I have seen locomotives
+hauling six and seven thousand tons of coal, puffing by all unobserved.
+Surely Einstein is right, the relative is only true, and ninety tons in
+1825 was almost as unbelievable as to-day would be a centaur galloping
+between the taxis of Piccadilly or Fifth Avenue.
+
+All this must have been remembered during the centenary celebrations
+this year, and broadcast from meeting room, assembly hall and dinner
+table, for centenaries lose their interest without much feeding. There,
+little men in tail coats, morning jackets and lounge suits, some with
+trousers creased and others somewhat baggy at the knee, according to the
+political creed of the wearer, in port and beer, and, in America, I know
+not what, toasted the memory of the great man. Pæans and praise gushed
+from their arid heads like the water from the rock smitten by Moses.
+These little men, sitting for a bare few minutes on the chariot wheel of
+genius, did say, “What a dust do we raise!” And in our morning papers we
+read of all this blather and pomposity, and overlooked an eternal truth.
+For we got into our railway carriages next day and complained of their
+unfitness for human habitation, even of the most temporary nature, and
+condemned the line we were travelling on as impossible, because the
+train was five minutes late. Outwardly a very ordinary picture, all
+this—the drinking, speechmaking and travelling troubles of little men,
+some strap-hangers to genius, but most quite normal nonentities; yet
+behind it all lurks a somewhat interesting problem—the protean
+psychology of the very ordinary man.
+
+
+                          THE PROTEAN PROBLEM
+
+Since that famous Brusselton gathering, the noise of which has long
+deafened the world to the wonder of its sound, what changes do we see! A
+whole earth rejuvenated, as humanity, like a shuttle, works the woof of
+a new civilization through the warp of an old. Civilization is built on
+movement, and the picture of life to-day is as different from that of
+1825, in rough proportion, as a cinema show differs from a neolithic
+rock painting. In this short hundred years, the life span of a very old
+man, such a revolution has been brought about by the locomotive that the
+world has been reborn. And, to our limited intelligence, always that of
+a child, we have forgotten the events of this first birthday; and the
+changes, which it conjured out of the depths of ignorance, are to-day
+accepted by us all as the essentials of our surroundings and as
+necessitous to our lives.
+
+If some magician could appear to-day, and, by a wave of his wand, banish
+all railroads to limbo, a calamity would fall upon this world to which
+no parallel could be found since Noah entered the Ark. The greatest
+plagues, famines and wars would vanish like wisps of smoke into the
+night, when compared to its all-consuming horror. It would be like
+dragging out of the human body the arterial and venous systems, and yet
+leaving the man alive, an aching mass of bones and fiery nerves. The
+picture is indescribable, it is beyond the grasp of intelligence to grip
+it, and yet, in 1825, the ancestors, the grandfathers, and great
+grandfathers, and great grandmothers, too, of all the little men who in
+1925 were dressed in dinner jackets (or tuxedo, as they call it over the
+Atlantic) morning coats and lounge suits, made to measure and “off the
+peg,” were shouting down George Stephenson, even more boisterously than
+their grandsons and great grandsons this year shouted him up. This, then
+is the protean problem, that eternal truth overlooked as we read in our
+newspapers that a workman has been killed in Walworth or a girl has
+deposited a baby outside an A.B.C. in the Strand, and so on, _ad
+infinitum_, the long categories of the normalities of life. This is the
+inner problem George Stephenson has to teach us, and let us consider it,
+for it is a live and moving problem, and one which will not be
+masticated by very ordinary men, as they gulp down their beer, their
+port or iced water. It is the problem of “‘Hail, king of the Jews,’ one
+day and ‘Crucify Him’ the next.” It is, as I say, the veritable protean
+problem of humanity, and nine hundred and ninety-nine human beings out
+of every thousand are very, very, ordinary men.
+
+
+                         THE X-RAY TRANSPORTER
+
+Let us picture to ourselves another magician descending on this earth of
+ours, a man of magic with the prosaic name of John Smith, yet none the
+less a man of genius, for all such are magicians in very fact. He is a
+very modern genius, and, I will suppose that he has discovered how to
+transform any and all physical things into ether waves moving at 186,000
+miles a second, and that he can precipitate in its original form any
+article or being sent to any given spot; all this arrived at by tapping
+a key or pressing a button.
+
+What a traffic problem is here opened to this world; so immense that it
+puts to blush the power of that horrid wizard who would remove our
+railways. Its conception is no more impossible than that of
+broadcasting. Even in so remote a village as Camberley (thirty miles
+distant from London, and there I write), where electrical genius is
+conspicuously absent, I can switch on to Paris and listen to Galli Curci
+or any other human bird. And what appears to me far more marvellous,
+simultaneously a fisherman in Trondhjem can do likewise. An immense
+audience in fact this Galli Curci can command, and totally unknown to
+her, totally unseen and out of contact even with itself, a dust of
+individuals, each speck of which can travel on or off her song by mere
+pressure of the hand, each speck of which can travel by ear at infinite
+speed and to any civilized point on the globe. If this is not magic,
+what is?
+
+If song can be etherealized, why not then the singer? How much more
+remarkable would it not be, in place of scanning bold headlines of dead
+workmen and deposited babies, to read that Melba will sing in New York,
+at a quarter past three next Saturday afternoon, and at the Opera House
+in Paris, that very same day, and but twenty minutes later.
+
+If we can transmit one thing, surely the day must soon come when we
+shall be able to transmit all things, and my genius John Smith is the
+man of that day. What could he not do? He could solve the traffic
+problem in Regent Street or Broadway, for all, astonished reader, you
+would have to do would be to sit on a transmitter, press a button, and
+in the minutest fraction of a second, you would find yourself in Peter
+Robinson’s, or Mr. Morgan’s office, or wherever you wanted to go, all
+for a penny or a couple of cents! He could banish the Communists to the
+moon, where there are no capitalists and where there is plenty of ice to
+keep their heads cool. He could replace the League of Nations by a row
+of chairs. The Grenadier Guards would fall in to the stentorian yells of
+their Sergeant-Major to be seated. The button would be pressed by the
+Army Council and, in less than a twinkle of an eye, they would be doing
+their famous goose-step down the Sieges Alle, to the utter consternation
+of the terrible Teuton.
+
+Dear and crawling reader, what could he not do, and what could not you
+do? Half-a-crown, or half-a-dollar, would take you round the world—bag,
+baggage and all. And if you do not forget your purse, you can breakfast
+in New York at a cafeteria, lunch with Ongo-Pongo on the shores of Lake
+Chad, have tea in Yoshiwara, at the “Nectarine” for choice, and sup with
+Doris in the Bois de Boulogne at 8.30—this, indeed, is to live.
+
+But what would you do—you beefsteak-eating bull of a Briton, yes, what
+would you do? You would don your lounge suit or your morning coat, or
+your tuxedo, as your great grandfathers did right back in 1825. You
+would become thoroughly traditional and would say: “Why, this man is
+mad—a raving lunatic! Send me to Lake Chad?... Good God, man, what is he
+thinking about ... Lock him up!”
+
+Then the storm would burst. The leading engineers, “eminent” as they are
+called by every newspaper, would say it was contrary to etheric law;
+Harley Street would be thoroughly up in arms, for all their old lady
+friends might suddenly betake themselves in a second to Madeira and get
+cured of their ailments; the physicians would say the human frame cannot
+stand this rush; the bath-chairmen would say that their occupation was
+gone; the lawyers would say it was illegal and that it would lead to the
+Cocos Islands becoming a refuge for criminals; the soldiers would say,
+how could they be expected to protect this dash dashed land, why, it did
+not fit their strategy, therefore it _must_ be wrong. And what would the
+clergy say? Heaven alone knows, for whilst antiquity and things
+antiquated separate the Churches, any novelty of a progressive nature is
+apt to bring them together with amazing unanimity.
+
+The reader may be beginning to think that I, the writer, am off my head,
+but I am not. So far, all I have done is to reveal protean
+possibilities, now I will turn to actualities of the same psychological
+order. I will imagine that this genius Mr. Smith has, in disgust,
+removed himself to Aldebaran, and that we are about to get back to the
+Brusselton Incline.
+
+
+                       ERICHTHONIUS, WHEELWRIGHT
+
+I must have missed the Incline in my haste to get back to Brusselton,
+for I find myself in Athens in the Minoan age, or thereabouts, for the
+year is 1486 B.C. Everyone seems very excited; porters have thrown down
+their baskets and are yelling unintelligible words, yet of a pronounced
+and universal meaning; shoemakers are beating at a house door with their
+lasts. Whatever is up? A dainty little creature, some now far away
+Doris, approaches me and says: “Do you know what that old blighter (my
+Attic is weak) has done? Why, he has invented a thing called a chariot,
+and all these poor people have lost their jobs.”
+
+Of course, Erichthonius never invented the chariot; the idea of a pure
+inventor is but a piece of proletarian imagery, a morsel of that
+ignorance which is the soul of the crowd. This old man, even if he ever
+lived, which seems doubtful, did no more than Savery did, or Newcomen,
+or Watt, or Stephenson, or Marconi did; that is, he was a link in that
+great chain we call progress, each link being the great thought of a
+great man. Tutenkhamon had his chariot as we well know, and many another
+before him, and we read in the Acts of the Apostles of a eunuch of great
+authority, a kind of Maître d’Hôtel of Candace, queen of the Ethiopians,
+journeying to Jerusalem sitting in his chariot reading Esaias, the
+prophet, which is no mean compliment to the Roman road-makers in
+Palestine.
+
+I must, however, hasten back to Brusselton, for there lies my goal; but
+stop, what is this? “A whirlicote,” a “Noah’s Ark,” or, in common
+language, an Elizabethan coach; for sure—a direct descendent of the
+handicraft of Erichthonius. The Earl of Rutland, it is said, first built
+whirlicotes in this country, in 1565, and, in spite of the villainous
+condition of the roads, my lords and ladies soon took to them. This,
+apparently, was a sure proof, in its day, that the country was going to
+the dogs; for, early in the seventeenth century, a bill was brought into
+Parliament “to prevent the effeminacy of men riding in coaches.”
+Hitherto Englishmen had ridden or walked, why should they not continue
+to do so, why not, indeed?
+
+In the first quarter of the seventeenth century, the number of coaches
+in London was reckoned at six thousand and odd, and in a curious old
+book, published in 1636, and recently reprinted, called “Coach and
+Sedan,” of these six thousand and odd whirlicotes we read:—
+
+“I easilie (quoth I) beleeve it, when in certaine places of the Citie,
+as I have often observed, I have never come but I have there, the way
+barricado’d up with a _Coach_, two, or three, that what hast, or
+businesse soever a man hath; hee must waite my Ladie (I know not whose)
+leasure (who is in the next shop, buying pendants for her eares; or a
+collar for her dogge) ere hee can find any passage.”
+
+It is Regent Street or Fifth Avenue over again, for, according to this
+author, when there is a new Masque at Whitehall, the coaches stand
+together “like mutton-pies in a cooke’s oven,” and then he adds: and
+“hardly you can thrust a pole between them!”
+
+In its turn, the stage coach was opposed tooth and nail, because it was
+something new. In 1671, Sir Henry Herbert, M.P., stated that: “If a man
+were to propose to convey us regularly to Edinburgh in seven days, and
+bring us back in seven more, should we not vote him to Bedlam?” Sir
+Henry Herbert is what I call a psychological Proteus, a kind of
+intellectual amoeba which propagates itself by simple division, the
+parts of which are always with us and alike—they never die.
+
+
+                        THE PHILOSOPHER’S STEAM
+
+The Brusselton Incline is now in sight, so I will pause and look back
+whilst I regain breath. The horse of Troy was a very wonderful beast,
+and many strange things came out of it, for it was the strangest thing
+man had seen since the Ark. But years after Troy was burnt, a stranger
+thing was seen in Alexandria. It was called an aeolipile, a kind of
+rudimentary steam engine, which was invented by one, Hero, in 130 B.C.
+He used it to open and close the doors of a temple, yet it was
+eventually destined to open the portal of a new world, a glimpse of
+which would have sent Hero or Columbus completely out of their minds.
+Yet these greater doors remained closed for seventeen hundred years,
+when another, this time Battista della Porta, in the year 1601,
+re-discovered the power of steam.
+
+In 1641, Marion de Lorme, accompanied by the Marquis of Worcester,
+visited the madhouse of the Bicêtre in Paris, and this is what he
+writes:—
+
+“We were crossing the court, and I, more dead than alive with fright,
+kept close to my companion’s side, when a frightful face appeared behind
+some immense bars, and a hoarse voice exclaimed, ‘I am not mad! I am not
+mad! I have made a discovery that would enrich the country that adopted
+it.’ ‘What has he discovered?’ asked our guide. ‘Oh!’ answered the
+keeper, shrugging his shoulders, ‘Something trifling enough; you would
+never guess it; it is the use of the steam of boiling water.’”
+
+Who was this maniac? It was Solomon de Caus, he had a vision whilst
+dabbling with steam vessels, and he had seen carriages and ships
+propelled by steam. This was too much for men dressed in half hose and
+doublets, or whatever was the tuxedo of their day. “Carriages driven by
+steam ... lock him up!” So he was locked up. But the idea lived on, and
+it grew. There was Giovanni Branca, Edward Somerset, Marquis of
+Worcester, then Thomas Savery, who, in 1698, obtained a patent for a
+water raising engine. There were others, Jean de Hautefeuille, who, in
+1678, suggested the piston; Denis Papin, 1690, of cylinder and piston
+fame. At length Thomas Newcomen, 1705, something near success; others
+still, Humphrey Potter, Henry Beighton, but all waiting for _the_ man.
+Then _the_ man came in the form of a poor instrument maker, and the new
+Jerusalem of the steam age was Glasgow, for there did he work. This man
+was James Watt, who, having realized that the cylinder of an engine
+should always be as hot as the steam which entered it, in 1769 threw
+open the doors of the most stupendous epoch in economic history. The
+transmutation of heat into mechanical work had been discovered, it was
+the true stone of the philosophers, the “Open Sesame” to another age.
+
+
+                    GEORGE STEPHENSON, ENGINE-WRIGHT
+
+In the very year James Watt built the first practical steam engine,
+namely, the year 1769—the year Napoleon was born—fearful riots were
+taking place in Russia, because some enlightened person had introduced
+the potato, a useful vegetable as we all know, yet at this time one in
+which the Russian peasant saw the Satanic thumb, for he was certain that
+this humble vegetable was the “devil’s apple.” Though why this should
+have detracted from its nutritive qualities I cannot say.
+
+Looking back now, and we are nearing Brusselton, it seems to me that
+there is no difference between the spirit of these deluded peasants and
+those who, with shoe lasts, beat vigorously on the door of
+Erichthonius’s house. They are one and all Sir Henry Herberts, though
+the particular cut of their clothes may differ. George Stephenson,
+having studied steam engines in general and Mr. Trevithick’s crude and
+inefficient locomotive in particular, determined to build one of his
+own, and, with the support of Lord Ravensworth, he accomplished this
+feat at Killingworth in 1814. There the first efficient locomotive was
+made. Had Lord Eldon been a Russian, he would probably have objected to
+potatoes, but being an Englishman he preferred bigger game. “I am
+sorry,” he said, “to find the intelligent people of the North-country
+gone mad on the subject of railways.” A few miles had only been opened,
+but this was quite sufficient to establish madness, and by some other of
+his ilk, the adage, “A fool and his money are soon parted,” was applied
+to Lord Ravensworth.
+
+The Killingworth railway was followed by the Stockton and Darlington
+line. Mr. Edward Pease, the Quaker supporter of Stephenson, had said:
+“Let the country but make the railroads, and the railroads will make the
+country.” Be it remembered that locomotives had been working at
+Killingworth, and very efficiently, for ten years; but there were others
+who, unlike Mr. Pease, were full of the spirit of old Herbert. The Duke
+of Cleveland opposed the measure in Parliament, as the line would pass
+through his fox covers, and, due to his influence it was thrown out. A
+new survey was made, avoiding these precious earths, and the railway was
+built.
+
+The next line was that between Manchester and Liverpool. Lord Derby
+turned out his farm hands to chase Stephenson’s surveyors off his
+estates. Lord Sefton did likewise, and the Duke of Bridgewater
+threatened to shoot them at sight. Stephenson had his theodolite so
+often smashed that he deemed it wise to hire a prize fighter to carry
+it. The “Quarterly Review” supported the project, and it is curious to
+read what it said, for it will give the reader some idea of the
+virulence of the opposition. It says:
+
+“What can be more palpably absurd and ridiculous than the prospect held
+out of locomotives travelling _twice as fast_ as stage coaches! We
+should as soon expect the people of Woolwich to suffer themselves to be
+fired off upon one of Congreve’s ricochet rockets, as trust themselves
+to the mercy of such a machine going at such a rate.... We trust that
+Parliament will, in all railways it may sanction, limit the speed to
+_eight or nine miles an hour_, which we entirely agree with Mr.
+Sylvester is as great as can be ventured on with safety.”
+
+This was praise indeed, and it is amazing that the British Parliament,
+which is always full of ordinary men, did not take the hint and limit
+the speed of the locomotive to that of a trotting horse. Nevertheless,
+though this grand opportunity was missed, the Parliamentary Committee
+did all in its power to obstruct the measure. One of its members asked
+George Stephenson: “Suppose a cow were to stray upon the line?” There
+was a hush of horror, then he added: “Would not that, think you, be a
+very awkward circumstance?” “Yes,” answered Stephenson, “very awkward
+indeed—_for the coo_!”
+
+The leading councils openly declared that this “untaught and
+inarticulate genius” was mad.... “Every part of the scheme shows that
+this man has applied himself to a subject of which he has no knowledge,
+and to which he has no science to apply.” Not only would these
+locomotive engines be a terrible nuisance, “in consequence of the fire
+and smoke vomited forth by them,” but “the value of land in the
+neighbourhood of Manchester alone would be deteriorated by no less than
+£20,000!” “The most absurd scheme that ever entered into the head of man
+to conceive,” shouted Mr. Alderson, the leading counsel. “No engineer in
+his senses would go through Chat Moss,” solemnly declared Mr. Giles, the
+most eminent engineer brought forward by the opposition. He estimated
+the cost of such a project at £270,000. Stephenson did it for £28,000,
+but the line was an expensive one as it had so many fox covers to avoid.
+
+All this was but a preliminary skirmish, the main battle now began. The
+beef-eating Briton was thoroughly aroused. George Stephenson was
+considered to be an incarnation or certainly an implement of his Satanic
+Majesty. The public were appealed to, and ever ready to hinder progress,
+they took off their tuxedo, smocks, frocks, morning coats or whatever
+covered their bodies, and formed phalanx against the common foe. A
+meeting of Manchester ministers of all denominations was convened. This
+meeting declared that the locomotive was “in direct opposition both to
+the law of God and to the most enduring interests of society.” This set
+match to powder. The doctors declared that the air would be poisoned and
+birds would die of suffocation. The landowners, that the preservation of
+pheasants and foxes was no longer possible. Householders, that their
+houses would be burnt down and the air polluted by clouds of smoke.
+Horse-breeders, that horses would become extinct. Farmers, that oats and
+hay would be rendered unsaleable. Innkeepers, that inns would be ruined.
+Passengers, that boilers would burst. Heaven knows who—“that the
+locomotive would prevent cows grazing, hens laying, and would cause
+ladies to give premature birth to children at the sight of these things
+moving at four and a half miles an hour!”
+
+Yet there was this consolation. The very, very ordinary man, the British
+public at large, declared that “the weight of the locomotive (six tons!)
+would completely prevent its moving, and that railways, even if made,
+could _never_ be worked by steam power.” Yet for ten years now, and
+more, the Killingworth engines were running daily!
+
+The Stockton and Darlington line was a tremendous success; so also was
+the railway between Manchester and Liverpool, yet opposition thickened
+rather than lessened. In 1830, the “Rocket” had attained a speed of
+thirty-five miles an hour, yet, in 1832, Colonel Sibthorpe (the Army now
+come into the picture and oh! how bravely), declared his hatred of these
+“infernal railroads,” and that he “would rather meet a highwayman, or
+see a burglar on his premises, than an engineer!” When the Birmingham
+railway bill was before Parliament, Sir Astley Cooper, that most eminent
+of surgeons, declared: “You are entering upon an enormous undertaking of
+which you know nothing. Then look at the recklessness of your
+proceedings! You are proposing to destroy property, cutting up our
+estates in all directions! Why, gentlemen, if this sort of thing be
+permitted to go on, you will in a very few years _destroy the
+noblesse_!” And this, from a man who had been knighted for cutting a wen
+out of George IV.’s neck!
+
+
+                        THE NATURE OF THE BEAST
+
+All this is not only amusing, but vastly instructive—these beaters of
+shoe lasts on the lintel of genius. Here we have a deep and vivid study
+presented to us of popular ignorance, that universal coagulant of truth.
+In 1824, George Stephenson had said to his son and a companion: “Now
+lads, I will tell you that I think you will live to see the day when
+railways will come to supersede almost all other methods of conveyance
+in this country—when mail coaches will go by railway, and railroads will
+become the Great Highway for the King and all his subjects. The time is
+coming when it will be cheaper for a working man to travel on a railway
+than to walk on foot.”
+
+The victory was won in 1825, the year following this memorable prophecy;
+yet, in 1835, the reactionaries were still fighting a rear guard action,
+and we find the landed gentry sending forward their servants and luggage
+by rail and condemning themselves to jog along the roads in the family
+coach. On the Continent it was just the same, and even in 1862 the Papal
+Government opposed the opening of the Rome and Naples railway. The rear
+guard fought on until June, 1842, when, on a certain Monday, Her Majesty
+Queen Victoria made her first railway trip. It was from Windsor to
+London, and her coach had a crown on its roof. The reactionaries went
+head over heels, donned their frock coats or whatever garment
+appertained to their social rank, and declared the railway the greatest
+blessing God had ever permitted man to discover. The Marquis of Bristol,
+wildly excited, said that “if necessary, they might _make a tunnel
+beneath his very drawing-room_,” and the Rev. F. Litchfield that he did
+not mind if a railway ran through his bedroom, “with the bedposts for a
+station.” Ever irrational and unbalanced, very ordinary men went as mad
+on railways as they had been mad against them. The panic of 1844–1846
+was the result. In the last-mentioned year applications were made to
+Parliament for powers to raise £389,000,000 for the construction of new
+lines.
+
+On the 26th of June, 1847, a year before George Stephenson died, he
+attended the opening of the Trent Valley Railway. Sir Robert Peel was
+his host and proclaimed him “the chief of our practical philosophers.”
+Seven baronets and two or three dozen members of Parliament, all in
+frock coats and tall hats, did homage to the great engineer, whilst the
+clergy blessed the enterprise and bid all hail to the new line as
+“enabling them to carry on with greater facility those operations in
+connection with religion which were calculated to be so beneficial to
+the country.”
+
+I wonder what passed in George Stephenson’s mind. In 1825 he was
+universally proclaimed mad and a danger to society; in 1847 he is
+proclaimed “the chief of our practical philosophers” and the saviour of
+society. I wonder which he objected to most—their abuse or their praise?
+Both, I should imagine, were largely overlooked by him, for he was a
+very great man, and surely those who abused him and praised him—very,
+very small—truly insignificant.
+
+
+                           PROTEAN IGNORANCE
+
+Protean ignorance never dies; this is the problem which confronts us.
+George Stephenson has only been my peg upon which I have hung this musty
+old skin, indeed no golden fleece, but just as magical, so that I might
+the better examine it; and a fine stout peg it is—all of British oak.
+
+Stephenson was the father of the locomotive; as to this there can be no
+dispute, and equally can there be no doubt that the locomotive has
+changed the superstructure of the civilized world, yet its foundations
+remain permanently fixed. Matter fluctuates as the will of man unmasks
+the material world; but the soul of man remains fixed, abiding in the
+solitude of his ignorance.
+
+Ignorance and stupidity are always with us, they are the Dioscuri of the
+temple of life. To change the material world is like changing our
+clothes, to change the spiritual world is like changing our intestines.
+Spiritual, I admit, is not the exact word, neither is moral nor human.
+To me, the spiritual is all-pervading and uninfluenced by intelligence
+or reason. A man who is grossly ignorant is grossly religious, for he is
+a worshipper of idols.
+
+To-day we see the multitudes bending the knee to Baal, and yet we see
+them surrounded by misery, woe and suffering. No disease is incurable,
+no ill cannot be conquered. But every would-be saviour, however humble,
+must prepare for crucifixion, because the very multitudes they would
+save are in themselves their worst enemies.
+
+Henry Herbert never dies, he was here before Adam took form from out the
+dust of Eden, and he will be the last man to leave this earth when the
+last trumpet sounds, and I have not the slightest doubt that he will
+then question the wisdom of the Almighty. He will question the wisdom of
+all things new, and yet, to-day, the world is groaning for novelty, for
+material growth means also material decay. Though very ordinary men can
+build middens, it is only the extraordinary man who can shift these
+piles of refuse—accumulations of old traditions, customs and accepted
+things. To me the moral of this centenary is not the power of steam, but
+the power of the will of man. George Stephenson triumphed over all
+difficulties, because he was possessed of a will to win. The stronger
+opposition grew the more mighty grew his will. Protean ignorance has,
+therefore, its virtue; it renders progress difficult to attain; it is
+the whetstone of genius. When we realize this, in place of wringing our
+hands in lamentation when Henry Herbert beats his last against our door,
+we open it and look at him, and laugh, and then close it and go on with
+our work—in one word, we persevere. Laughter and Perseverance, surely
+these two are the shield and sword of progress.
+
+
+
+
+                   THE CONQUEST OF THE ELYSIAN FIELDS
+
+
+                   THE EQUATION OF POWER AND MOVEMENT
+
+Power and Movement, these are the foundations of civilization and the
+sire and dam of progress, and before the days of Watt, Fulton and
+Stephenson, all Anglo-Saxons, how shallow were they laid; so shallow
+that their social and industrial superstruction is, to-day, difficult to
+visualize, let alone to understand. Here is a little glimpse, and if not
+a very dramatic one, yet one which is apt to make us wonder at this lost
+world of little more than a century ago, a world all but obscured in
+clouds of steam.
+
+In 1770, Adam Smith wrote (and be it remembered that for fifty years
+after this date the picture remains true) the following:—
+
+“A broad-wheeled wagon attended by two men, and drawn by eight horses,
+in about six weeks’ time carries and brings back between London and
+Edinburgh near four ton weight of goods. Upon two hundred tons of goods,
+therefore, carried by the cheapest land-carriage from London to
+Edinburgh, there must be charged the maintenance of a hundred men for
+three weeks, and both the maintenance, and, what is nearly equal to the
+maintenance, the wear and tear of four hundred horses, as well as of
+fifty great wagons.”
+
+To-day, when the trans-Siberian railway is in working order, a man can
+travel in the same time, with four tons of baggage if he wishes, from
+London to Tokio and back. Edinburgh is four hundred miles from London,
+and Tokio is some eight thousand miles from this same city; such has
+been the expansion of movement and the contraction of space, and
+to-morrow aircraft may reduce the time taken to a fortnight.
+
+The fire of Prometheus is as a rush-light compared to the volcano of
+steam which, like all great world forces, is a mixture of Pandora and
+her box; for it has given us beauty and wealth, and also ugliness and
+starvation. It revived the world, bled white during the Napoleonic wars,
+and, in place of conquering the world as the great Corsican attempted,
+it recreated it.
+
+When men began to move by steam power, Titans strode this earth. In
+peace time we see science advancing as it had never advanced before,
+industry growing beyond belief or imagination. Cities spring up in the
+night, such as Chicago, for whilst, in 1830, its population numbered a
+hundred souls, to-day it holds nearly three millions. Nations grew and
+doubled, trebled and quadrupled their populations, and the wealth of
+Crœsus is to-day but the bank balance of Henry Ford. Yet out of all this
+prosperity, created by steam power, arose the Great War of 1914–1918,
+which, in its four years of frenzy, was to show a surfeited civilisation
+the destructive power of steam.
+
+What do we see during this last period of roaring turmoil? A curious
+picture. The railway and the steamship, which, during days of peace,
+increased movement out of all belief, during war end by impeding it.
+Like great funnels, we see the railways, pouring forth cataracts of men,
+veritable human inundations, and then we see that, though it is easy to
+move masses by rail, once the rail is left behind, it is next to
+impossible to supply these masses by road, or to move them in face of
+gun and machine gun. The war becomes a war of trenches, not a moving
+war, but a stationary affair—men look at each other and sometimes shoot.
+
+As peace begets war, power and movement are the foundation of the
+second, just as they are of the first. On the battlefield or in the
+workshop, power is useless without movement. It is no good setting up a
+boot factory, unless you can get the boots on to the feet of the people,
+and in war it is no good piling up bayonets, unless you can get them
+into the intestines of your enemy. Thus, it happened that, before the
+war was three months old, though each side possessed much power, power
+in itself was useless, for it could not be moved. The remaining four
+years of the war were spent in solving the equation of power and
+movement.
+
+This problem was partially solved by the tank, which possessed both
+power and movement. And from the armies which used these machines, and
+there were never very many of them, little streamlets of men trickled
+forward out of these great stagnant human pools, and the war was won.
+
+
+                     THE RIDDLE OF THE GORDIAN KNOT
+
+What is our problem to-day? It is again the problem of power and
+movement; not a new problem, but a very old problem, in fact the eternal
+problem dressed up in a new frock. Our problem is to revive our old
+industries, so far as they can be revived, and to establish new ones,
+for industries, like the human beings who create them, grow old, come on
+the pension list and die. Our problem is, as it was during the war, to
+shift the population, to demobilize our great army of unemployed, and to
+cause it to trickle from our over-populated little island into our
+underpopulated Dominions and Colonies. Lastly, our problem is to secure
+ourselves against another war.
+
+To-day, we find ourselves in a veritable labyrinth of difficulties, but
+there must be a way out, possibly several, for otherwise we could not be
+standing in its centre. We have got into it, so we can get out of it, as
+we have of many a former maze; but how?
+
+It is here that I think the spirit of George Stephenson can help us, and
+it is for this reason that I have taken up so much of this little book
+with this great man’s name and work, and with the difficulties he faced
+and, undaunted, conquered. His motto was “Perseverance”; let it be ours.
+He did not talk over much, but he took his coat off and got to work. He
+worked single-handed and was obstructed at every turn. The whole country
+was against him, yet he conquered, and, more to him than to any other
+man a century ago, it seems to me, were the problems, which then faced
+England, solved, and they are the problems which face England now.
+
+As it may be said, and with some truth, in fact a great deal of truth,
+that the railway made the war, since it made the peace which preceded
+the war, so with equal truth may it be said that the petrol engine,
+encased in a tank, by making peace possible, may now make peace
+profitable, even if in doing so it begets the germs of another war. In
+other words, as the war was so largely won by the tank, so must the
+peace which has followed it be largely won by the caterpillar tractor,
+or roadless vehicle.
+
+Henry Herbert will vote me to Bedlam, but this is the most encouraging
+fact of all, for every new idea must start by being in a minority of
+one, such as that of George Stephenson’s against the world. The stronger
+the opposition the better the idea, may not be a law of Nature, yet it
+is a pretty sound rule, and one with few exceptions. If we persevere and
+laugh, the caterpillar tractor will win the peace, and to paraphrase the
+words of George Stephenson, I will, in my turn, make a prophecy:
+
+“Now lads, I venture to tell you that I think you will live to see the
+day when tracked vehicles will supersede almost all other methods of
+conveyance in roadless countries; when armies will be moved across
+country and roadless traction will become the chief means of commercial
+movement in all undeveloped lands. The time is coming when it will be
+cheaper for a farmer or soldier to use a tracked machine than to travel
+by rail.”
+
+As it took Mahomet three years to collect thirteen followers, I shall
+not be downcast if I collect no greater a number out of the readers of
+this book, because perseverance was the motto of Mahomet as well as of
+Stephenson, and as perseverance won them their battles, may it win me
+mine.
+
+Many will consider my prophecy ridiculous, and a multitude of Henry
+Herberts will foam at the mouth. Protean ignorance is against me—a
+resilient Everest of oiled rubber. A hundred years ago it was
+boisterously hostile to novelty, to-day it is somnolently apathetic,
+and, in this latter mood, it is almost more overpowering than in the
+former. Nevertheless, let us smile, let us take off our coats and climb
+this glutinous mountain, for the Elysian fields lie beyond.
+
+A few years ago we were told that, once the war was won, this little
+island of ours was going to be fit for heroes to live in, as if any
+country ever had been or could be an Eldorado after a great war! To-day,
+we have well over a million unemployed men and women in this country,
+and I have no doubt there are many heroes and heroines amongst them;
+certainly the conditions demand an heroic race to win through.
+
+Our present difficulties all boil down to one recognizable sediment.
+Great Britain is over-populated. Before the war we were over-populated,
+and to-day we are still more so, and to-morrow matters are likely to be
+worse.[1] There are three solutions to this problem. Either we must stop
+breeding, or we must create new home industries and so absorb our
+surplus population, or we must transport it to less thickly populated
+areas overseas.
+
+Footnote 1:
+
+  In 1913, 700,000 emigrated from this country; in 1923, only 463,000
+  left.
+
+Six hundred and odd politicians in Westminster, some in black ties and
+others in red, chatter like a wilderness of monkeys, whilst those who
+were proclaimed heroes may consider themselves lucky if they are allowed
+to stand in the gutter and sell bootlaces; and in this chatter the
+problem is drowned, only to bob up again, between each breath.
+
+We are told that the Government’s determination is “not to tolerate
+propaganda for birth control in clinics and maternity centres supported
+by public funds.” This settles the first solution, at least the
+Government does not believe in it. Recently, because the coal mining
+industry was unable to pay its way, it is now subsidized, and many new
+industries are left unprotected, so the second solution joins the first.
+As regards the third solution, very little has been done outside private
+effort, because the problem has been tackled from the wrong end.
+Attempts are persistently being made to shift the unemployed; who wants
+them? In place attempts should be made to shift the employed, but this
+question I will examine a little later on.
+
+The point I want the reader, however, to realize is that, as the riddle
+of the Gordian knot was _not_ solved by cutting it, so the problem of
+over-population will not be solved by the dole. Cutting and doling can
+be done by any fool with his coat on, they are too easy; for the problem
+which faces us demands that we take our coats off and get to work, in
+place of turning our less fortunate fellow citizens into unemployable
+vagrants.
+
+
+                      THE PROBLEM OF UNEMPLOYMENT
+
+Birth control I rule out of discussion, and though I am of opinion that
+it might well be made compulsory amongst politicians, my solution
+demands not a restriction, but a vast increase in the birth rate.
+
+The invention of the locomotive and steamship upset all birth rate
+calculations.[2] During the last century it has been reckoned that
+twenty-eight million people left Europe by sea, four millions during the
+first half and twenty-four millions during the second, the period of
+railway and steamship development. Out of these twenty-eight million
+emigrants, twenty-two millions went to the United States, the population
+of which was five and a quarter millions in the year 1800, seventy-six
+millions in 1900, and is about one hundred and ten millions to-day, and
+quite possibly, before the present century is out, this figure will be
+doubled.
+
+Footnote 2:
+
+  In 1750, before the industrial revolution set in, the population of
+  the United Kingdom was 6,517,000.
+
+In the United Kingdom we see, if not so great, as startling an increase,
+considering the smallness of the country. In 1801, the population
+numbered about sixteen millions, and to-day, excluding Ireland, it
+numbers about forty-four millions, which is probably four or five
+millions more than the industry of the country can economically support,
+as unemployment and the low standard of living, not only now but before
+the war, testify to.
+
+Let us remember always what has created the great civilizations of the
+past, empires and kingdoms, prosperous lands and great cities. It is
+movement and the means of movement. First man placed a bundle on his
+wife’s head and gave her a kick, then he tamed the ox and beat it with a
+stick, thus civilization became possible. At length, he invented the
+wheel and the sail, and, by means of these inventions, mankind crept out
+of primeval darkness into the dawn of history. In 1809 Fulton invented
+the steamship, and in 1814 George Stephenson built his first locomotive.
+It is, as I have already said, these inventions which have created not
+only such immense cities as modern London and New York, but which have
+shifted millions of men, women and children from one part of the globe
+to the other. Why did they shift them, this is the question? Because the
+steamship and the railway enabled them to tap sources of wealth which
+did not exist in their own countries; for without prospects of wealth
+there would be little or no movement.
+
+To-day, we possess an Empire of over fourteen million square miles in
+area, of which three-quarters is sparsely inhabited. In Canada we find
+nine million two hundred thousand people; in Australia five million
+eight hundred thousand; in South Africa eight millions, and in New
+Zealand only one million two hundred thousand; yet New Zealand is as big
+as the British Isles.
+
+Without considering our immense Colonial possessions, the potential
+wealth of the Dominions alone should eventually be sufficient to support
+certainly one if not two hundred millions of Englishmen. On the one hand
+we have room for at least a hundred millions, and on the other we have a
+surplus of some five millions. The redistribution of this surplus should
+not prove an insuperable problem, and even if it cost us twenty pounds a
+head to arrive at a solution, it would be cheap when compared to
+spending forty-six millions a year on doles and poor rates, which, far
+from solving the problem of unemployment, only accentuate it.[3]
+
+Footnote 3:
+
+  “Schemes to the value of approximately £466,000,000 undertaken in
+  connection with the relief of unemployment have, or are being assisted
+  by the Exchequer.”—_Whitaker’s Almanack._
+
+In former times, the danger inherent in immigrations was the hostility
+of the tribes in occupation of the new lands—the problem was a military
+one. To-day, the difficulty is not military, but financial. To-day, it
+is no longer bows and arrows which restrict immigration, but money.
+To-day, it is not profitable to tackle a land owner with a rifle, and
+nearly all land worth owning is owned; instead the settler must buy the
+land, or be sufficiently skilled to dispose of his labour at a profit.
+
+Our present-day unemployed have no money and little skill. To send such
+people to the Dominions is no true solution of the unemployment problem,
+for it only shifts the unemployed from one place to another, and this
+does not solve the problem. In 1914, Germany attempted to gain the
+French Colonies, not because she wanted to shift to them the vagrants of
+Berlin and Hamburg; but, because the possession of these Colonies would
+have enabled thousands of well-to-do Germans, the small capitalists and
+skilled workers of the middle classes, to enrich themselves without loss
+of nationality. Incidentally, as these people emigrated, room would be
+made in Germany for the under-dog. Competition would have decreased with
+a decrease in not the unemployed, but in the employed population. Wages
+would have increased in proportion and, by degrees, the greater
+percentage of the under-dogs, through increased wealth, would have
+raised themselves into the middle class as small capitalists.
+
+To-day, there is no necessity for us to covet the territories of other
+nations. We possess ten million square miles of sparsely-populated land
+in which Englishmen will not be lost to the Empire. To-day, we see this
+problem mentioned in every paper, but writers will persist in thinking
+in terms of the _unemployed_. It is the _employed_ we must shift, not
+only because at home room will thus be made for the unemployed,[4] but
+because it is the skilled man or the small capitalist who can thrive in
+the Dominions and Colonies and the unemployed normally cannot.
+
+Footnote 4:
+
+  It may be considered by some that this will mean that we in England
+  shall be left with the unworkable dregs of society. Such a view is a
+  gross libel on the bulk of the unemployed. Before the War, seventy per
+  cent. of the recruits for the army enlisted because they were
+  unemployed. During the War these men were universally proclaimed
+  heroes, and such they were. I can personally testify, after
+  twenty-seven years of service in the army, that less than five per
+  cent. of the men in any unit of regular soldiers would make
+  undesirable citizens if vocational training were fully established.
+  If, however, men are kept unemployed for years they will eventually
+  become unemployable.
+
+
+                          THE PROBLEM OF POWER
+
+To move we must not only possess the means of movement, but the will to
+move; for, without this will, all the means in the world are but scrap
+iron and dead timber. The men who first tamed the camel and the horse
+must have had ideas in their heads—visions which impelled them to do
+what they did. It may have been sympathy for his wife as she carried his
+load which induced men to jump on a horse’s back, but much more likely
+was it her low carrying power and possibly also to get away from her
+restless tongue.
+
+In ninety-nine cases out of a hundred, the will to move is stimulated by
+material gain. To possess something easily, cheaply, and, if possible,
+for nothing, is the urge of both commerce and robbery, twins of Fear and
+Greed, forces of vice as well as of virtue, the forces of the growth of
+the human world, and forces not to be set aside lightly.
+
+The nomadic hordes surged out of Asia in the search after food. It was
+the desire to fill their stomachs which moved them. They trickled over
+Europe until they met the sea, and then, as years passed by, they
+conquered the ocean and swept into the New World. What will happen when
+the Americans begin to swarm, it is difficult to say. Will they once
+again set out to pursue the setting sun? Who knows?
+
+So also with the wars of the world, as with these slow but steady human
+inundations, it has nearly always been a material goal, however shadowy
+in form, which has provided the urge. Security, what is this? The shield
+of Prosperity and Liberty—a desert, a river, a range of mountains, or a
+feeble neighbour; in one word, a secure frontier to shield a people, so
+that they may enjoy the fruits of peace; this has been the urge of war.
+
+Then, from war, which so often is but robbery on a national scale, to
+turn to barter, amicable warfare; and from barter to turn to commerce,
+amicable war on a national scale, what has been the urge? A gold field,
+oil wells, land where corn will grow or cattle will breed; in one word,
+the possibilities of wealth, which is the loadstone of movement.
+
+The potential wealth of the Empire is stupendous, and potential wealth
+is power asleep, power awaiting to be roused from its slumbers, the
+power of coal, of oil, and water, of the air and the sun’s rays, of the
+tides and of the atoms themselves. The whole world is a gigantic battery
+of power, and our Empire covers a quarter of this world, and all that is
+needed is to detonate it, and it can only be detonated by the will of
+man.
+
+The Romans conquered by building roads, the modern world, by building
+railways. Yet both are but a one-dimensional means of movement, and, in
+type, so near related, that even to-day the gauge of our railway lines
+is the gauge of the Roman chariots. Suppose now that these roads and
+railways could suddenly expand laterally, so that from a few feet broad
+they could expand to a few yards in breadth, then to hundreds of yards,
+miles, and hundreds of miles, until it is as easy to move over the
+surface of the earth as over the surface of the sea. A second dimension
+would be given to movement; a new world would be born, since a
+stupendous sleeping power would be awakened. Stephenson improved the
+chariot. In place of taking three weeks to go from London to Edinburgh
+we can now travel there in eight hours. He conquered Time rather than
+Space. The storming of the Bastions of Space, this is the problem of the
+future, and one of our engines of conquest is the cross-country machine.
+
+
+                          PROBLEMS OF MOVEMENT
+
+Economic movement may be divided into five great categories, namely,
+movement by air, by water, by rail, by road and by pack. Each may be
+divided into two sub-categories. Thus, air movement by transport lighter
+and heavier than air; water movement into sea transport and inland water
+transport; railway movement into broad and narrow-gauge lines; road
+movement into transport by wagon and lorry, and pack movement into human
+and animal porterage or carriage.
+
+I do not here intend to examine movement by air and water, and, as
+regards the other three categories, I will limit my examination to their
+use in undeveloped countries, more particularly within the Empire, and I
+will start with the railway.
+
+_The Railway._ The country through which a railway is built may be
+divided into three economic areas:—
+
+(i) A belt about eighty miles in width, through the centre of which the
+railway runs.
+
+(ii) Two belts, each about twenty miles wide, extending on the flanks of
+the central belt.
+
+(iii) The whole of the country concerned, excluding the above three
+belts.
+
+Whether the prosperity of the country is based on minerals, cattle, or
+cereals, the first belt is normally prosperous, the second two less
+prosperous, and the remainder of the country unremunerative. To bring
+the whole country up to the prosperity of the first belt demands a
+railway every eighty miles.
+
+Obviously, in an undeveloped country, to build railways every eighty
+miles is prohibitively costly, but as nearly every nation in the world
+is prepared to spend millions of pounds on the construction and
+maintenance of railways and rolling stock, and often with little
+reference to the law of supply and demand, it is advisable, I think,
+briefly to examine the question of cost.
+
+The cost of a railway decreases as the load increases; the load must,
+consequently, be sufficient to pay for the capital expenditure entailed
+in constructing the line and also its maintenance. The cost of the
+Nigerian railways was £11,000 per open mile; the estimated cost of new
+construction in the Gold Coast lies between £13,000 and £17,000 per
+mile. For railways costing as much as these, and the figures are not
+abnormally high, to pay, the country they traverse must not only be
+fertile or rich in minerals, but thickly inhabited.
+
+I have already examined the question of population in the Dominions, all
+of which are to-day sparsely inhabited, so I will now turn to another
+area, namely, British Tropical Africa, a potentially immensely rich
+country covering some two and a half million square miles and occupied
+by forty million inhabitants. To run railways through this country would
+be similar to running railways through Great Britain less its present
+elaborate system of roads[5] and with a population numbering about two
+and a quarter millions. In such conditions railways would most certainly
+not pay, and would only begin to do so when road feeders had been built
+and the country had become thickly populated.
+
+Footnote 5:
+
+  There are 178,000 miles of road in Great Britain.
+
+_The Road_. As economically the railway is length with little breadth,
+in undeveloped countries it can only be looked upon as an artery,
+depending for its freight on the roads and tracks which converge on it.
+If these roads and tracks be few in number, generally speaking, freights
+will be insignificant, and the railway, in place of fostering wealth,
+will swallow it up or stifle it. The railway must, therefore, be skirted
+by a network of roads.
+
+The cheapest form of road is a rough cart track, and where the country
+consists of grass land and the rainfall is low, as in South Africa,
+extensive use can be made of bullock wagons for purposes of
+transportation. The bullock wagon has reached, however, the zenith of
+its evolution, and is by no means suited for countries where grazing is
+difficult. If fodder has to be carried in bulk, it at once becomes an
+uneconomical means of movement.
+
+If the country to be traversed is unsuited to this means of transport,
+we are left with the lorry, and though light box-cars, such as Ford
+vans, can use rough tracks and frequently move across country, the load
+carried is so small, that, unless it is of a particularly valuable
+nature, or distance is short, the cost of carriage becomes prohibitive.
+We are left, therefore, with the heavy lorry, varying from three to six
+tons burden.
+
+These vehicles obviously demand macadamized roads, which not only are
+extremely expensive to build, but in a sparsely inhabited country
+prohibitively expensive to maintain. Here in England, we spend yearly
+£50,000,000 and more on road repair.[6] In Jamaica, £1,000,000 is spent
+on the maintenance of lorry roads. In both countries this means that
+each inhabitant has to pay slightly more than £1 a year to meet the road
+repair bill. In tropical countries, where torrential rains fall and
+vegetation luxuriates, the macadamized road is out of the question, so
+also is it in desert land where the sand is apt to silt over the
+roadways.
+
+Footnote 6:
+
+  In 1914–1915 the maintenance of roads cost £19,000,000, in 1921–1922
+  this sum had risen to £45,500,000.
+
+If the road will not suit the vehicle, the vehicle must be made to suit
+the road. Here again the difficulty is economically almost insuperable.
+Balloon tyres, the use of light trailers and of multi-wheel vehicles
+will partially overcome the difficulty; but rubber rapidly deteriorates
+in tropical countries, and though a vehicle, such as the Renault six
+twin-wheel car, has carried out some wonderful performances in the
+Sahara and elsewhere, the maintenance of twelve balloon tyres
+practically rules it out of court in most undeveloped countries.
+
+If the bullock wagon is restricted to certain areas, and if the lorry
+demands a road which is prohibitively expensive, the only remaining
+sources of transport which can feed the railway are the pack animal and
+the human porter.
+
+_The Pack Animal._ In examining this last system of transport, I will
+begin with the human pack-animal, the native porter. Not only is this
+means of carriage the most primitive of all, which renders it somewhat
+of an anachronism in the twentieth century, but it is extravagant in the
+extreme. Economically it is unsound, since the human pack-animal stands
+in the way of the development of his country. In the first place his
+productive work is lost, and in the second, the load carried is so small
+as to offer little encouragement to the producer. Last, and by no means
+least, unlike the railway, as the amount increases, so does the cost per
+ton mile increase with it.
+
+On a large scale the system is impossible, and the substitution of pack
+animals for porters is but little less uneconomical, except in
+mountainous countries and desert lands, and in the latter, it would seem
+that the reign of the camel is approaching its end, since in most places
+where a camel can go a car can follow.
+
+
+                        TWO-DIMENSIONAL MOVEMENT
+
+The above, I admit, is a very brief summary of an immense and complex
+subject, namely, the bridging of the gap which exists between the
+producer and the arterial railway, or the producer and his market, if it
+be a distant one. Ruling out pack and porter as being too uneconomical
+to be used on a large scale, we are left with the wagon, the lorry and
+the light railway. All these three means can cover great distances, but
+they do not solve the problem, because the solution does not only lie in
+power to traverse distance, but in ability to cover the largest area in
+the shortest time.
+
+The difficulty so far has been that the wheel demands a road and
+destroys a road, and that, whilst it is easy, though frequently very
+costly, to make a road which will suit a wheel, it is most difficult to
+make a wheel which will not damage a road; for failing a cheap and
+simple form of Pedrail wheel, a system of multi-wheels has to be
+resorted to, and this system leads directly to the tracked machine,
+which not only can dispense with roads, but, what is equally important,
+can make its own track, just as the feet of a man form a path by
+frequently crossing the same piece of ground.
+
+This is not the place to examine in detail the technicalities of
+roadless vehicles; but to-day there are two main types of these
+vehicles; an all-tracked machine of the tank type, and a half-tracked
+machine which has wheels in front and tracks in rear. The first is more
+suitable for heavy loads, and the second for light.
+
+In the manufacture of these vehicles three main problems must be solved:
+
+(1) The vehicle must be able to use roads without damaging them; nor
+must it damage the surface of the ground it travels over.
+
+(2) It must be able to move across country without damaging itself.
+
+(3) The cost per ton-mile must be equal or lower than that of existing
+vehicles.
+
+It may seem a paradox to lay down that the first requirement of a
+roadless vehicle is that it can negotiate roads, but, in fact, it is not
+so; for it stands to reason that, when prepared tracks do exist, it is
+only wasting time and energy to travel across country. Further, if the
+tracks of the vehicle are so constructed that they do not damage roads,
+they will not damage the surface of the ground, and, consequently, by
+continually travelling over the same ground, they will compact and
+consolidate its surface and rapidly form a road of their own which will
+require no metalling. This advantage is one of the great secrets of its
+success.
+
+As movement across country entails traversing rough ground, the tracks
+of a roadless vehicle must permit of the absorption of obstacles. This
+absorption is attained by springing the tracks. In an unsprung machine,
+obstacles are either crushed into the ground or the vehicle has to lift
+itself over them. In both cases the result is injury to the machine, and
+loss of power and discomfort.
+
+It stands to reason that the vehicle must be durable, simple and easy to
+maintain; also that the ton-mile cost must be low. As regards this
+latter requirement, experimental machines have so far proved that this
+is a possibility. A one-ton roadless Guy Lorry recently travelled from
+London to Aldershot, and its ton mileage was fifty-two to the gallon. It
+has also been worked out that the cost per ton-mile of the Sentinel
+tractor, “including overhead charges, depreciation, interest on capital
+and all running charges, and allowing for a 20-tons net load for a
+reasonable number of working days in the year,” will be slightly under
+twopence per ton-mile.
+
+[Illustration:
+
+  SENTINEL TRACTOR
+
+  [_Face p. 80_
+]
+
+In the future, the types of roadless vehicles are likely to be great as
+the surface of the ground differs in various countries; also fuels of
+all kinds are likely to be burnt, such as petrol, oil and coal, and in
+tropical countries, where these fuels are scarce or expensive, producer
+gas is almost certain to become the main motive power.
+
+The most remarkable achievement as yet carried out by roadless vehicles
+is undoubtedly the crossing of the Sahara from Touggourt to Timbuctoo,
+during the winter of 1922–1923, by Citroën motorcars fitted with half
+tracks invented by Monsieur Kegresse. The distance travelled was three
+thousand six hundred kilometres, and the time taken was twenty days,
+that is on an average one hundred and twelve miles a day. All machines
+returned safely, and the total journey there and back was over seven
+thousand kilometres.
+
+The nature of the country crossed was by no means uniform, for it was
+sandy, rocky, mountainous and, in the neighbourhood of the river Niger,
+covered with tropical vegetation. To build a railway from Touggourt to
+Timbuctoo would cost, at the lowest reckoning, a thousand millions of
+francs—possibly much more; this alone accentuates the importance of the
+achievement and its interest to us, for the Empire contains thousands of
+square miles of roadless country.
+
+I fully realize that, though the roadless vehicle can replace the
+motor-car, it cannot replace the railway, if the railway is an efficient
+one. This is, however, not the problem. The problem is, first to bridge
+the gap between the producer and the railway, and secondly to create in
+undeveloped countries sufficient wealth to enable more railways to be
+built. Co-operation with existing railways, this is what must be aimed
+at.
+
+[Illustration:
+
+  CROSSLEY-KEGRESSE CAR
+
+  [_Face p. 82_
+]
+
+For purposes of illustration, I will take British East Africa as an
+example. A railway runs from Mombasa via Nairobi to the Great Lakes.
+Forty miles on each side of this railway, generally speaking, is
+commercially remunerative. This is the first belt I mentioned above, the
+second two belts are productively a gamble for any but capitalist
+pioneers, and the remainder of the country is but the playground of rich
+colonists who can afford to speculate on likely railway extensions in
+the future, or else of simple fools.
+
+I will now suppose that a reliable roadless vehicle exists which can
+transport across country five or ten tons of produce. What do we see? We
+see the first belt extending from forty miles on each side of the
+railway to a hundred miles, and the second two belts being pushed out,
+in vastly improved circumstances, fifty to a hundred miles on each side
+of the new central belt. In fact, we have more than doubled the central
+belt and trebled the belts adjoining it, and, in doing so, have more
+than doubled the commercial prosperity of the country.
+
+What now is our next step in the evolution of economic movement? It is,
+out of the wealth resulting, to extend from our main Mombasa-Nairobi
+railway, metre gauge lines in herringbone fashion up to the confines of
+the new central belt, and at the termini of these to build receiving
+depôts. In place of metre gauge lines, huge roadless machines, carrying
+and hauling from a hundred tons upwards, will in the end, I think, prove
+more economical. Once these depôts have been established, the smaller
+machines belonging to the farms and stations can bring produce to them
+and dump it. Thus, by degrees, will the central railway be fed by a
+prosperous area some four to five hundred miles in width.
+
+[Illustration:
+
+  MORRIS ONE-TON LORRY
+
+  [_Face p. 84_
+]
+
+To take another example. A transportation problem which faces every
+farmer is that of rapid door-to-door delivery. To-day, especially in
+such countries as Canada, what do we see? We see chain-tracked machines
+used for agricultural work, but we seldom see movement of the produce
+grown carried out save by horse-drawn vehicles, which can negotiate
+cultivated land if it be fairly dry.[7] Two horses cannot pull much more
+than a ton over a heavy field to the farm itself. At the farm, which may
+be fifty miles from a railway, the produce has either to be transported
+by cart to the station, which may take three days and two to return, or
+loaded into a lorry which, unless the roads are good, will take one day
+each way. The loss of time is considerable, and the roadless vehicle
+would appear to be the only practical solution. It can be loaded at the
+extremity of a field in any weather and condition of ground, and moved
+direct to the railway either by road or across country at a normal lorry
+speed, and carrying from three to ten tons according to size. Delivery
+is from door to door, and the only limitation as to load would appear to
+be the factor of safety of the bridges which may have to be crossed.
+
+Footnote 7:
+
+  In Canada, snow offers a serious difficulty to movement by wagon or
+  car during the winter months; there should be no great difficulty in
+  producing a roadless vehicle which will cross snow almost as easily as
+  grass land.
+
+In waterless, as well as roadless areas, such as exist in Australia,
+wagons and lorries are frequently useless, and the roadless vehicle is
+again the solution, for it does not require a road to move along, or a
+well at which to seek refreshment. It carries its own roadway and its
+own water supply, and, if necessary, water for man and beast in
+districts where water is scarce.
+
+In mining countries, such as Chili and South Africa, and in
+oil-producing countries, such as Mexico and Persia, the need for a
+weight-carrying, roadless vehicle is much felt, and in these countries,
+where again roads are few and bad, and water frequently scarcer, it
+would prove as useful as in agricultural lands.
+
+[Illustration:
+
+  VULCAN TWO-TON LORRY
+
+  [_Face p. 86_
+]
+
+
+                           THE ELYSIAN FIELDS
+
+To conquer the Elysian Fields we must establish new industries at home,
+we must move our surplus population to the lands which are
+underpopulated, and we must be prepared to secure our Empire against
+foreign aggression. All these problems can the roadless vehicle help us
+to solve.
+
+First, the vehicle itself is a new type of machine which will demand an
+industry of its own. Twenty-five years ago, as many of us remember, it
+was a rarity to see a motor-car; yet there were men who, even then,
+could see them in legions, and one of these men was Mr. (now Earl)
+Balfour. “In the House of Commons on Thursday, May 17, 1900, Mr. Balfour
+said he sometimes dreamed—perhaps it was only a dream—that in addition
+to railways and tramways, we might see great highways constructed for
+rapid motor traffic, and confined to motor traffic, which would have the
+immense advantage, if it could be practicable, of taking the workman
+from door to door, which no tramcar and no railway could do. Is it
+possible for Mr. Balfour’s dream to be realized?”—_Pall Mall Gazette._
+
+To-day, this question is apt to make us smile, seeing that the motor-car
+industry is one of the largest and richest in the world; that in 1924
+there were half a million cars in this country and nearly fourteen
+millions in the United States,[8] and that hundreds of millions of
+pounds have been spent on motor roads.
+
+Footnote 8:
+
+  In 1924 there was one car to every eight people in the U.S.A., and one
+  to every seventy-four in Great Britain.
+
+Surely then, if I be right as regards the powers of the roadless
+vehicle, its future should be as great as that of the motor-car,
+possibly greater, seeing that most of the world is still in a roadless
+condition. Surely, here is employment for many men, and a source of
+wealth which can only be guessed at in thousands of millions of pounds.
+
+[Illustration:
+
+  GUY TWO-AND-A-HALF-TON LORRY
+
+  [_Face p. 88_
+]
+
+And this machine will not only create industrial wealth, but
+agricultural prosperity, for it will enable the farmer to settle in
+lands which to-day are but wilderness and waste. The old means will
+continue, but will be pushed more and more into the beyond. The porter
+will bring in his small load and so will the pack animal. These loads
+will be collected and loaded on small roadless machines which will
+convey them to the depôts from which the giant machines work backward
+and forward to the railway, which will carry its hundreds of thousands
+of tons down to the sea. We shall see less porters, less pack animals
+and less wagons, but more railways and more ships, and these demand men
+to work them. The waste lands will become fertile; townships will spring
+up; industries will be created, and the energy of millions of men and
+women will be profitably expended.
+
+Now follows a curious sequent. If, commercially, we want to expand the
+Empire, strategically we want to contract it. Our object is not to
+maintain an immense army to pursue a course of foreign wars, but to
+maintain law and order throughout the Empire and safeguard its
+existence. The fewer men we employ the less will the army cost, and, be
+it remembered, military expenditure during peace time is unremunerative.
+
+To contract the Empire is not to abandon large tracts of country, this
+is to cut the Gordian knot in place of unravelling it; but, instead, to
+move over it quicker than we can to-day. What we want to contract is
+time and not space, the time taken in moving over ground and
+particularly over roadless country. The roadless vehicle will help us to
+solve this problem. A battalion may march a hundred miles in a week, but
+if carried in roadless vehicles this distance can be multiplied by
+seven; and what is even more important, for long periods a line of
+communication can be dispensed with, because the battalion can carry
+supplies with it for several weeks.
+
+[Illustration:
+
+  DAIMLER THREE-TON LORRY
+
+  [_Face p. 90_
+]
+
+The main strategical importance of the roadless vehicle lies, however,
+in the fact that it will, by degrees, fill the Dominions and Colonies
+with virile men. Australia with a population of twenty-five millions has
+little to fear from Asiatic races; with fifty millions—nothing. All
+these changes and many others will be discovered in an Empire recreated
+by a little iron, a little thought, and much perseverance.
+
+
+                          THE WINGS OF PEGASUS
+
+The wings of Pegasus are the wings of imagination—that telescope of the
+mind which magnifies the glimpses of the future; and, once we have
+focussed these glimpses, we must bring them down to earth, and chart out
+their anatomy, so that we and others can set to work.
+
+Rudyard Kipling mounted Pegasus when he said: “When a nation is lost,
+the underlying cause of the collapse is always that she cannot handle
+her transport. Everything in life, from marriage to manslaughter, turns
+on the speed and cost at which men, things and thoughts can be shifted
+from one place to another. If you can tie up a nation’s transport, you
+can take her off your books.”
+
+Shifting of thought, this is our first need, for the Great War destroyed
+an epoch, yet we still hark back to this epoch. A new world requires new
+ideas, and in the first half of this little book I have shown how ideas,
+a hundred years ago, were throttled by the protean stupidity and
+ignorance of man. To-day, these vices continue, but in their senile
+forms of apathy and indolence. Every government is faced by trade
+depression, unemployment and the cost of security, yet each in turn,
+whether Liberal, Conservative or Labour, turns from these problems and
+deflates itself on some patent shibboleth—protection, free trade,
+capital levy, etc., etc., until it is pushed out of office by a blind,
+but aggravated country.
+
+[Illustration:
+
+  F.W.D. THREE-TON LORRY AND TRAILER
+  (Six tons useful load)
+
+  [_Face p. 92_
+]
+
+The crucial problem to-day is movement in all its forms. If to-morrow
+you can move twice the speed you can to-day, you will have twice the
+time at your disposal to work in. It is not gold standards and other
+such humbug which produce wealth, it is work; and if, to-morrow, you
+have twice as much time to work in as you have to-day, your existing
+wealth will be doubled.
+
+This is the problem which George Stephenson saw quite clearly, and
+solved within the limits of the conditions he worked in. He gave the
+world a one-dimensional movement of a superiority never dreamt of before
+his day, and this superiority recreated the civilized world. To-day, we
+can expand this movement to cover two dimensions and recreate the world
+again. One day it will be done, because the world is a roadless planet,
+but for us, as an Empire, it may be done too late. No government minds
+spending millions of pounds on some pet hobby—doles, pensions, cruisers,
+naval bases, worn-out coal pits, etc., etc., but no government so far
+has spent sixpence on roadless vehicles. A hundred thousand pounds or so
+judiciously expended on research and experiment might well result in the
+production of half a dozen efficient types of cross-country machines.
+Has no government the intelligence to understand this, or the
+imagination to see what it may lead to?
+
+Pegasus without his wings is a very ordinary animal; with them—most
+extraordinary, for he flew to Olympus, a land fit for heroes to live in,
+and not one in which no one but a hero can survive. Why not follow his
+example, why not look around us and discover the pivot of our
+difficulties, and then, why not from the mountain top of reason gaze
+into the future and conjure up the images of things to be? Then, let us
+descend into those tumultuous and dismal valleys below, and to Laughter
+and Perseverance add Wisdom. With this trinity to lighten our way,
+surely will our way grow straight and broad, and the clouds which are
+gathering around us, disperse; and surely then shall we discover those
+Fortunate Islands which to-day we are so blindly seeking.
+
+------------------------------------------------------------------------
+
+
+
+
+       _Each, pott 8vo, 2/6 net_      _Occasionally illustrated_
+
+
+
+
+                               TO-DAY AND
+
+                               TO-MORROW
+
+
+This series of books, by some of the most distinguished English
+thinkers, scientists, philosophers, doctors, critics, and artists, was
+at once recognized as a noteworthy event. Written from various points of
+view, one book frequently opposing the argument of another, they provide
+the reader with a stimulating survey of the most modern thought in many
+departments of life. Several volumes are devoted to the future trend of
+Civilization, conceived as a whole; while others deal with particular
+provinces, and cover the future of Woman, War, Population, Clothes,
+Wireless, Morals, Drama, Poetry, Art, Sex, Law, etc.
+
+It is interesting to see in these neat little volumes, issued at a low
+price, the revival of a form of literature, the Pamphlet, which has been
+in disuse for 200 years.
+
+
+                             _Published by_
+                KEGAN PAUL, TRENCH, TRUBNER & CO., LTD.
+            Broadway House: 68–74 Carter Lane, London, E.C.4
+
+
+
+
+                            _VOLUMES READY_
+
+
+  =Daedalus=, or Science and the Future. By J. B. S. HALDANE, Reader in
+    Biochemistry, University of Cambridge. _Sixth impression._
+
+    “A fascinating and daring little book.”—_Westminster Gazette._ “The
+    essay is brilliant, sparkling with wit and bristling with
+    challenges.”—_British Medical Journal._
+
+    “Predicts the most startling changes.”—_Morning Post._
+
+  =Callinicus=, a Defence of Chemical Warfare. By J. B. S. HALDANE.
+    _Second impression._
+
+    “Mr. Haldane’s brilliant study.”—_Times Leading Article._ “A book to
+    be read by every intelligent adult.”—_Spectator._ “This brilliant
+    little monograph.”—_Daily News._
+
+  =Icarus=, or the Future of Science. By BERTRAND RUSSELL, F.R.S.
+    _Fourth impression._
+
+    “Utter pessimism.”—_Observer._ “Mr. Russell refuses to believe that
+    the progress of Science must be a boon to mankind.”—_Morning Post._
+    “A stimulating book, that leaves one not at all discouraged.”—_Daily
+    Herald._
+
+  =What I Believe.= By BERTRAND RUSSELL, F.R.S. _Second impression._
+
+    “One of the most brilliant and thought-stimulating little books I
+    have read—a better book even than _Icarus_.”—_Nation._ “Simply and
+    brilliantly written.”—_Nature._ “In stabbing sentences he punctures
+    the bubble of cruelty, envy, narrowness, and ill-will which those in
+    authority call their morals.”—_New Leader._
+
+  =Tantalus=, or the Future of Man. By F. C. S. SCHILLER, D.Sc., Fellow
+    of Corpus Christi College, Oxford. _Second impression._
+
+    “They are all (_Daedalus_, _Icarus_, and _Tantalus_) brilliantly
+    clever, and they supplement or correct one another.”—_Dean Inge_, in
+    _Morning Post_. “Immensely valuable and infinitely readable.”—_Daily
+    News._ “The book of the week.”—_Spectator._
+
+  =Cassandra=, or the Future of the British Empire. By F. C. S.
+    SCHILLER, D.Sc.
+
+    Just published. The book questions the power of the British Empire
+    to-day. Naval supremacy has been abandoned, the labour situation at
+    home is critical, England is entangled in European affairs, and
+    (consequently) the Dominions have more sympathy with the American
+    rather than the British view-point. The probable outcome of this
+    situation is indicated.
+
+  =Quo Vadimus?= Glimpses of the Future. By E. E. FOURNIER D’ALBE,
+    D.Sc., author of “Selenium, the Moon Element,” etc.
+
+    “A wonderful vision of the future. A book that will be talked
+    about.”—_Daily Graphic._ “A remarkable contribution to a remarkable
+    series.”—_Manchester Dispatch._ “Interesting and singularly
+    plausible.”—_Daily Telegraph._
+
+  =Hephaestus=, the Soul of the Machine. By E. E. FOURNIER D’ALBE, D.Sc.
+
+    “A worthy contribution to this interesting series. A delightful and
+    thought-provoking essay.”—_Birmingham Post._ “There is a special
+    pleasure in meeting with a book like _Hephaestus_. The author has
+    the merit of really understanding what he is talking
+    about.”—_Engineering._
+
+  =Lysistrata=, or Woman’s Future and Future Woman. By ANTHONY M.
+    LUDOVICI, author of “A Defence of Aristocracy”, etc.
+
+    “A stimulating book. Volumes would be needed to deal, in the
+    fullness his work provokes, with all the problems raised.”—_Sunday
+    Times._ “Pro-feminine, but anti-feministic.”—_Scotsman._ “Full of
+    brilliant common-sense.”—_Observer._
+
+  =Hypatia=, or Woman and Knowledge. By MRS BERTRAND RUSSELL. With a
+    frontispiece. _Second impression._
+
+    An answer to _Lysistrata_. “A passionate vindication of the rights
+    of women.”—_Manchester Guardian._ “Says a number of things that
+    sensible women have been wanting publicly said for a long
+    time.”—_Daily Herald._ “Everyone who cares at all about these things
+    should read it.”—_Weekly Westminster._
+
+  =Thrasymachus=, the Future of Morals. By C. E. M. JOAD, author of
+    “Common-Sense Ethics,” etc.
+
+    “His provocative book.”—_Graphic._ “Written in a style of deliberate
+    brilliance.”—_Times Literary Supplement._ “As outspoken and
+    unequivocal a contribution as could well be imagined. Even those
+    readers who dissent will be forced to recognize the admirable
+    clarity with which he states his case. A book that will
+    startle.”—_Daily Chronicle._
+
+  =The Passing of the Phantoms=: a Study of Evolutionary Psychology and
+    Morals. By C. J. PATTEN, Professor of Anatomy, Sheffield University.
+    With 4 Plates.
+
+    “Readers of _Daedalus_, _Icarus_ and _Tantalus_, will be grateful
+    for an excellent presentation of yet another point of
+    view.”—_Yorkshire Post._ “This bright and bracing little
+    book.”—_Literary Guide._ “Interesting and original.”—_Medical
+    Times._
+
+  =The Mongol in our Midst=: a Study of Man and his Three Faces. By F.
+    G. CROOKSHANK, M.D., F.R.C.P. With 28 Plates. _Second Edition,
+    revised._
+
+    “A brilliant piece of speculative induction.”—_Saturday Review._ “An
+    extremely interesting and suggestive book, which will reward careful
+    reading.”—_Sunday Times._ “The pictures carry fearful
+    conviction.”—_Daily Herald._
+
+  =The Conquest of Cancer.= By H. W. S. WRIGHT, M.S., F.R.C.S.
+    Introduction by F. G. CROOKSHANK, M.D.
+
+    “Eminently suitable for general reading. The problem is fairly and
+    lucidly presented. One merit of Mr. Wright’s plan is that he tells
+    people what, in his judgment, they can best do, _here and
+    now_.”—From the _Introduction_.
+
+  =Pygmalion=, or the Doctor of the Future. By R. MCNAIR WILSON, M.D.
+
+    “Dr Wilson has added a brilliant essay to this series.”—_Times
+    Literary Supplement._ “This is a very little book, but there is much
+    wisdom in it.”—_Evening Standard._ “No doctor worth his salt would
+    venture to say that Dr Wilson was wrong.”—_Daily Herald._
+
+  =Prometheus=, or Biology and the Advancement of Man. By H. S.
+    JENNINGS, Professor of Zoology, Johns Hopkins University.
+
+    “This volume is one of the most remarkable that has yet appeared in
+    this series. Certainly the information it contains will be due to
+    most educated laymen. It is essentially a discussion of ... heredity
+    and environment, and it clearly establishes the fact that the
+    current use of these terms has no scientific justification.”—_Times
+    Literary Supplement._ “An exceedingly brilliant book.”—_New Leader._
+
+  =Narcissus=: an Anatomy of Clothes. By GERALD HEARD. With 19
+    illustrations.
+
+    “A most suggestive book.”—_Nation._ “Irresistible. Reading it is
+    like a switchback journey. Starting from prehistoric times we rocket
+    down the ages.”—_Daily News._ “Interesting, provocative, and
+    entertaining.”—_Queen._
+
+  =Thamyris=, or Is There a Future for Poetry? By R. C. TREVELYAN.
+
+    “Learned, sensible, and very well-written.”—_Affable Hawk_, in _New
+    Statesman_. “Very suggestive.”—_J. C. Squire_, in _Observer_. “A
+    very charming piece of work. I agree with all, or at any rate,
+    almost all its conclusions.”—_J. St. Loe Strachey_, in _Spectator_.
+
+  =Proteus=, or the Future of Intelligence. By VERNON LEE, author of
+    “Satan the Waster,” etc.
+
+    “We should like to follow the author’s suggestions as to the effect
+    of intelligence on the future of Ethics, Aesthetics, and Manners.
+    Her book is profoundly stimulating and should be read by
+    everyone.”—_Outlook._ “A concise, suggestive piece of
+    work.”—_Saturday Review._
+
+  =Timotheus=, the Future of the Theatre. By BONAMY DOBRÉE, author of
+    “Restoration Drama,” etc.
+
+    “A witty, mischievous little book, to be read with delight.”—_Times
+    Literary Supplement._ “This is a delightfully witty
+    book.”—_Scotsman._ “In a subtly satirical vein he visualizes various
+    kinds of theatres in 200 years time. His gay little book makes
+    delightful reading.”—_Nation._
+
+  =Paris=, or the Future of War. By Captain B. H. LIDDELL HART.
+
+    A companion volume to _Callinicus_. “A gem of close thinking and
+    deduction.”—_Observer._ “A noteworthy contribution to a problem of
+    concern to every citizen in this country.”—_Daily Chronicle._ “There
+    is some lively thinking about the future of war in Paris, just added
+    to this set of live-wire pamphlets on big subjects.”—_Manchester
+    Guardian._
+
+  =Wireless Possibilities.= By Professor A. M. LOW. With 4 diagrams.
+
+    “As might be expected from an inventor who is always so fresh, he
+    has many interesting things to say.”—_Evening Standard._ “The mantle
+    of Blake has fallen upon the physicists. To them we look for
+    visions, and we find them in this book.”—_New Statesman._
+
+  =Perseus=: of Dragons. By H. F. SCOTT STOKES. With 2 illustrations.
+
+    “A diverting little book, chock-full of ideas. Mr. Stokes’
+    dragon-lore is both quaint and various.”—_Morning Post._ “Very
+    amusingly written, and a mine of curious knowledge for which the
+    discerning reader will find many uses.”—_Glasgow Herald._
+
+  =Lycurgus=, or the Future of Law. By E. S. P. HAYNES, author of
+    “Concerning Solicitors,” etc.
+
+    “An interesting and concisely written book.”—_Yorkshire Post._ “He
+    roundly declares that English criminal law is a blend of barbaric
+    violence, medieval prejudices, and modern fallacies.... A humane and
+    conscientious investigation.”—_T.P.’s Weekly._ “A thoughtful
+    book—deserves careful reading.”—_Law Times._
+
+
+
+
+                       _VOLUMES JUST PUBLISHED._
+
+
+  =Euterpe=, or the Future of Art. By LIONEL R. MCCOLVIN, author of “The
+    Theory of Book-Selection.”
+
+    Shows the considerable influence which commercial and economic
+    factors exert on all branches of art—literature, painting, music,
+    architecture, etc. It analyses the various factors responsible for
+    the present low standard of popular taste and suggests methods for
+    improvement.
+
+  =Atlantis=, or America and the Future. By Colonel J. F. C. FULLER,
+    author of “The Reformation of War,” etc.
+
+    In the turmoil and materialism of the United States the author sees
+    the beginning of a new civilization which, if it can find its soul,
+    is likely to exceed in grandeur anything as yet accomplished by the
+    civilizations of the Old World.
+
+  =Midas=, or the United States and the Future. By C. H. BRETHERTON,
+    author of “The Real Ireland,” etc.
+
+    A companion volume to _Atlantis_. Four main sections deal with the
+    U.S.A. as a Melting Pot, the Future of American Government, the
+    Future of American Character, and the Intellectual Future of
+    America. The conclusion deals with Industrial Potentialities.
+
+  =Nuntius=, or the Future of Advertising. By GILBERT RUSSELL.
+
+    Shows that advertising has become, not merely an economic necessity,
+    but a real benefit to social life. Examines its present position as
+    a factor in civilization and outlines its potentialities, not merely
+    as a commercial, but as a social and political, influence.
+
+  =Pegasus=, or Problems of Transport. By Colonel J. F. C. FULLER. With
+    Plates.
+
+    The author, after a brief review of the history of the railway,
+    shows that roadless vehicles, which in the form of tanks did so much
+    to win the recent war, in the form of commercial machines, may do as
+    much to win the present peace, by solving the problem of
+    over-population and, consequently, of unemployment.
+
+
+
+
+                            _READY SHORTLY_
+
+
+  =Artifex=, or the Future of Craftsmanship. By JOHN GLOAG, author of
+    “Time, Taste, and Furniture.”
+
+    After a suggestive sketch of the history of craftsmanship, the
+    author examines the possibilities in the use of machinery to extend
+    craftsmanship and make beautiful articles of commerce.
+
+  =Birth Control and the State=: a Plea and a Forecast. By C. P.
+    BLACKER, _M.C._, M.A., M.R.C.S., L.R.C.P.
+
+    A level-headed examination of the case for and against birth
+    control, summing up in its favour.
+
+  =Sybilla=, or the Future of Prophecy. By C. A. MACE, University of St.
+    Andrew’s.
+
+    An examination of the possibilities of scientific forecasting, with
+    special reference to certain volumes in this series.
+
+  =Gallio=, or the Tyranny of Science. By J. W. N. SULLIVAN, author of
+    “A History of Mathematics.”
+
+    An attack on the values which science is so successfully imposing
+    upon civilization.
+
+  =The Future of the English Language.= By BASIL DE SELINCOURT, author
+    of “The English Secret,” etc.
+
+    An analysis of the present condition of the English language and the
+    paths along which it is progressing.
+
+  =Mercurius=, or the World on Wings. By C. THOMPSON WALKER.
+
+    A brilliant picture of the world as it will be when inevitable
+    developments in aircraft take place.
+
+  =Lars Porsena=, or the Future of Swearing. By ROBERT GRAVES, author of
+    “Country Sentiment,” etc.
+
+    An account of the popular decline in swearing, the possibility that
+    it will regain its lost prestige, and new influences which are
+    affecting it.
+
+  =Plato’s American Republic.= By J. D. WOODRUFF.
+
+    A series of witty dialogues in the Platonic manner dealing with
+    aspects of American life and manners.
+
+  =The Future of Architecture.= By CHRISTIAN BARMAN, editor of “The
+    Architects’ Journal.”
+
+------------------------------------------------------------------------
+
+
+
+
+                          TRANSCRIBER’S NOTES
+
+
+ ● Typos fixed; non-standard spelling and dialect retained.
+ ● Enclosed italics font in _underscores_.
+ ● Enclosed bold font in =equals=.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK PEGASUS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
