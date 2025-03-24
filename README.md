@@ -1,7 +1,7 @@
 # Dernier projet de DAAR  - Moteur de Recherche de Livres dans la base Gutenberg 
 ## ✍️ Auteur
-Kessal Yacine (21311739)
-Bouzarkouna Malek (28706508)
+- Kessal Yacine (21311739)
+- Bouzarkouna Malek (28706508)
 
 ---
 
